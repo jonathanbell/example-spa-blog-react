@@ -1,0 +1,9 @@
+body {
+  padding: 1rem;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
